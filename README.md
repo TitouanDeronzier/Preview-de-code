@@ -6,7 +6,8 @@ WatchOver project :
   -Playlist
   -PopularGenerator
   -TvController
+  -Permission
   
 Unity Project;
   -SimplePlayerScript
-  
+  -MultiplayerRoom
